@@ -46,8 +46,8 @@ def CFPCA(foreground, background, alpha, interval, centered, aligned):
     - aligned (bool): If True, assume data is already aligned; if False, perform interpolation to align data.
 
     Returns:
-    - array: estimated eigenvalues
     - array: estimated eigenfunctions (to retrieve the jth eigenfunction, do result[:,j])
+    - array: estimated eigenvalues
     """
     
     # Check that all observations in both foreground and background are of the same length
@@ -124,8 +124,8 @@ def CFPCA_2(foreground, background, alpha, interval, aligned, num_bases):
     - aligned (bool): If True, assume data is already aligned; if False, perform interpolation to align data.
 
     Returns:
-    - array: estimated eigenvalues
     - array: estimated eigenfunctions (to retrieve the jth eigenfunction, do result[j])
+    - array: estimated eigenvalues
 
     """
     

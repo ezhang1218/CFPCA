@@ -18,7 +18,7 @@ This notebook demonstrates the application of CFPCA on the Berkeley Growth Study
 ## gait_cycle.ipynb
 This notebook utilizes CFPCA to analyze the gait cycle dataset.
 
-## stock_market_ipynb
+## stock_market.ipynb
 This notebook utilizes CFPCA to analyze stock market data.
 
 ## main.py

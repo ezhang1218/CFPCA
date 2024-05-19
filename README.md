@@ -12,4 +12,14 @@ This folder contains the gait cycle data.
 ## simulations
 This folder contains each simulation. Within each file, we indicate which figures correspond to those in the paper.
 
-# Package Requirement
+## berkeley_growth_study.ipynb
+This notebook demonstrates the application of CFPCA on the Berkeley Growth Study dataset, a toy dataset that has height measurements for boys and girls over various ages.
+
+## gait_cycle.ipynb
+This notebook utilizes CFPCA to analyze the gait cycle dataset.
+
+## stock_market_ipynb
+This notebook utilizes CFPCA to analyze stock market data.
+
+## main.py
+This script contains the core CFPCA method along with other supporting functions used.

@@ -7,7 +7,7 @@ As functional data assumes a central role in contemporary data analysis, the sea
 
 # Repository Structure
 ## data
-This folder contains the gait cycle data used in [gait_cycle.ipynb](./gait_cycle.ipynb).
+This folder contains the gait cycle data used in the analysis performed in the [`gait_cycle.ipynb`](./gait_cycle.ipynb) notebook.
 
 ## simulations
 This folder contains each simulation. Within each file, we indicate which figures correspond to those in the paper.
